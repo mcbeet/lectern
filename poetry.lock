@@ -22,7 +22,7 @@ tests_no_zope = ["coverage[toml] (>=5.0.2)", "hypothesis", "pympler", "pytest (>
 
 [[package]]
 name = "beet"
-version = "0.63.0"
+version = "0.66.0"
 description = "The Minecraft pack development kit"
 category = "main"
 optional = false
@@ -796,8 +796,8 @@ attrs = [
     {file = "attrs-21.2.0.tar.gz", hash = "sha256:ef6aaac3ca6cd92904cdd0d83f629a15f18053ec84e6432106f7a4d04ae4f5fb"},
 ]
 beet = [
-    {file = "beet-0.63.0-py3-none-any.whl", hash = "sha256:7fce5a7137789d38e8507e9cab671bfec4b11e19153fb8b45af7f485d803f094"},
-    {file = "beet-0.63.0.tar.gz", hash = "sha256:5250c0716cc652165fb68beaf197e252acc0ecf957766f079948de735c5d0ecc"},
+    {file = "beet-0.66.0-py3-none-any.whl", hash = "sha256:1fe14b20b46901ef9dc16d59bee86dc7b5d93d16777e7f84b422cff1faa26b1a"},
+    {file = "beet-0.66.0.tar.gz", hash = "sha256:f8d9690a91b1382d87a4435531221322a1f1aab5e6f2376f61b70fe84fa5de12"},
 ]
 black = [
     {file = "black-22.3.0-cp310-cp310-macosx_10_9_universal2.whl", hash = "sha256:2497f9c2386572e28921fa8bec7be3e51de6801f7459dffd6e62492531c47e09"},
