@@ -20,9 +20,9 @@ else:
         ignore_name(document.assets)
         ignore_name(document.data)
 
-        for overlay in document.assets.overlays:
+        for overlay in document.assets.overlays.values():
             ignore_name(overlay)
-        for overlay in document.data.overlays:
+        for overlay in document.data.overlays.values():
             ignore_name(overlay)
 
         return document
