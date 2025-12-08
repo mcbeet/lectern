@@ -1,3 +1,8 @@
+> [!IMPORTANT]
+> This repository is archived. Development moved to the [`beet` monorepo](https://github.com/mcbeet/beet/tree/beta/packages/lectern).
+
+---
+
 <img align="right" src="https://raw.githubusercontent.com/mcbeet/lectern/main/logo.png?sanitize=true" alt="logo" width="76">
 
 # Lectern
